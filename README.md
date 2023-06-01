@@ -32,3 +32,6 @@ On the other hand, Java Scripts and Applets are not supported.
 The name of the program was given in allusion to the lorises (Asian prosimians of the lorisid family, with large eyes and nocturnal habits), common on the island of Java.
 
 This program was developed in Object Pascal with Borland International's Delphi compiler, version 7.0 Personal Edition for Windows 32-bits, with support from THTMLViewer/TFrameViewer components, by L. David Baldwin (available at http://www.pbear.com) and XMLParser by Stefan Heymann (available from http://www.destructor.de).
+
+**NB** The program interface and documentation is in Brazilian Portuguese.
+
