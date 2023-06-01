@@ -1,4 +1,4 @@
-# ![LORIS](LORIS.BMP)Loris
+# ![LORIS](LORIS.BMP) Loris
 A simple program for off-line visualization of HTML and XML documents and embedded images. 
 
 Loris is an HTML and XML file viewer for microcomputers of the IBM-PC line, running under the operating environment Microsoft Windows '95, '98, 2000, NT, ME, XP, Vista, 8, 8.1, 10, 11.
